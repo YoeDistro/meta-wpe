@@ -12,5 +12,5 @@ RDEPENDS_packagegroup-fonts = "\
     source-han-sans-jp-fonts \
     source-han-sans-kr-fonts \
     source-han-sans-tw-fonts \
-    ttf-lohit \
+    ttf-dejavu \
 "
